@@ -1,0 +1,21 @@
+.cabecera{
+    background-color: #d4e09b;
+}
+
+h1{
+    text-align: center;
+    color: #797d62;
+}
+
+.body{
+    text-align: center;
+}
+
+p{
+    color: #a44a3f ;
+    font-weight: bold;
+}
+
+.areaDibujo{
+    border: 2px solid rgb(5, 49, 15);
+}
